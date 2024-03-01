@@ -1,3 +1,12 @@
 .language- :last-child {
     color: currentColor;
 }
+
+@font-face {
+    font-family: "Yati";
+    src: url("https://www.pyaesoneaung.dev/assets/font/yati.ttf");
+}
+
+body {
+    font-family: "Yati";
+}
