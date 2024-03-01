@@ -50,7 +50,8 @@ export default defineConfigWithTheme<ThemeConfig>({
       "meta",
       {
         property: "og:image",
-        content: "https://og.pyaesoneaung.dev/og?title=PHP Package Development",
+        content:
+          "https://res.cloudinary.com/pyaesoneaung/image/upload/v1709312090/package-development-preview_h2gvaa.jpg",
       },
     ],
     [
@@ -79,7 +80,8 @@ export default defineConfigWithTheme<ThemeConfig>({
       "meta",
       {
         property: "twitter:image",
-        content: "https://og.pyaesoneaung.dev/og?title=PHP Package Development",
+        content:
+          "https://res.cloudinary.com/pyaesoneaung/image/upload/v1709312090/package-development-preview_h2gvaa.jpg",
       },
     ],
     [
