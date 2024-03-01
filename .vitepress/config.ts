@@ -6,7 +6,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   extends: config,
   title: "PHP Package Development",
   description:
-    "PHP နဲ့ Laravel Package တွေ ဖန်တီးတာကို knowladge sharing လုပ်ထားတာပါ",
+    "PHP နဲ့ Laravel Package တွေ ဖန်တီးတာကို knowledge sharing လုပ်ထားတာပါ",
   base: "/",
   cleanUrls: false,
   srcDir: "src",
@@ -28,7 +28,7 @@ export default defineConfigWithTheme<ThemeConfig>({
       {
         name: "description",
         content:
-          "PHP နဲ့ Laravel Package တွေ ဖန်တီးတာကို knowladge sharing လုပ်ထားတာပါ",
+          "PHP နဲ့ Laravel Package တွေ ဖန်တီးတာကို knowledge sharing လုပ်ထားတာပါ",
       },
     ],
     [
@@ -43,7 +43,7 @@ export default defineConfigWithTheme<ThemeConfig>({
       {
         property: "og:description",
         content:
-          "PHP နဲ့ Laravel Package တွေ ဖန်တီးတာကို knowladge sharing လုပ်ထားတာပါ",
+          "PHP နဲ့ Laravel Package တွေ ဖန်တီးတာကို knowledge sharing လုပ်ထားတာပါ",
       },
     ],
     [
@@ -73,7 +73,7 @@ export default defineConfigWithTheme<ThemeConfig>({
       {
         property: "twitter:description",
         content:
-          "PHP နဲ့ Laravel Package တွေ ဖန်တီးတာကို knowladge sharing လုပ်ထားတာပါ",
+          "PHP နဲ့ Laravel Package တွေ ဖန်တီးတာကို knowledge sharing လုပ်ထားတာပါ",
       },
     ],
     [
