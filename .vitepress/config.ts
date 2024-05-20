@@ -111,7 +111,9 @@ export default defineConfigWithTheme<ThemeConfig>({
         "https://res.cloudinary.com/pyaesoneaung/image/upload/v1709306129/elephant.png",
       dark: "https://res.cloudinary.com/pyaesoneaung/image/upload/v1709306129/elephant.png",
     },
-    nav: [],
+    nav: [
+      { text: 'PDF Download', link: 'https://cdn.pyaesoneaung.dev/books/package-development.pdf' },
+    ],
     sidebar: [
       {
         text: "Package Development",
