@@ -112,7 +112,7 @@ export default defineConfigWithTheme<ThemeConfig>({
       dark: "https://res.cloudinary.com/pyaesoneaung/image/upload/v1709306129/elephant.png",
     },
     nav: [
-      { text: 'PDF Download', link: 'https://cdn.pyaesoneaung.dev/books/package-development.pdf' },
+      { text: 'PDF Download', link: 'https://cdn.pyaesoneaung.dev/books/PHP-Package-Development.pdf' },
     ],
     sidebar: [
       {
