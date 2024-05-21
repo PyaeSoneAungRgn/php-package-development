@@ -1,6 +1,6 @@
 # Laravel Package Development
 
-PHP နဲ့ Laravel Package တွေ ဖန်တီးတာကို knowledge sharing လုပ်ချင်ပါတယ်။ ဒီအပိုင်းမှာတော့ Laravel အတွက် package တစ်ခုဖန်တီးပါမယ်။
+ဒီအပိုင်းမှာတော့ Laravel အတွက် package တစ်ခုဖန်တီးပါမယ်။
 
 ## Requirements
 
@@ -450,7 +450,7 @@ git commit -m "initial commit"
 
 ပြီးရင်တော့ GitHub မှာ repo တစ်ခု create လုပ်ပြီး push ပါမ​ယ်။
 
-![php-package-development-part-2-img-1](https://www.pyaesoneaung.dev/assets/img/blog/php-package-development-part-2-img-1.jpg)
+![php-package-development-part-2-img-1](https://pyaesoneaung.dev/assets/img/blog/php-package-development-part-2-img-1.jpg)
 
 ဒါဆိုရင် GitHub Repo ထဲက Actions tab မှာ အခုလို test တွေ success ဖြစ်နေတာကိုတွေ့မှာပါ။
 
@@ -458,7 +458,7 @@ git commit -m "initial commit"
 
 GitHub မှာ `v1.0.0` ကို release လုပ်ပြီး [packagist.org](https://packagist.org/) မှာ submit သွားလုပ်ပါမယ်။
 
-![php-package-development-part-2-img-2](https://www.pyaesoneaung.dev/assets/img/blog/php-package-development-part-2-img-2.jpg)
+![php-package-development-part-2-img-2](https://pyaesoneaung.dev/assets/img/blog/php-package-development-part-2-img-2.jpg)
 
 ဒါပြီးရင်တော့
 

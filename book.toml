@@ -1,0 +1,15 @@
+[book]
+authors = ["Pyae Sone Aung"]
+language = "my"
+multilingual = false
+src = "src"
+title = "PHP Package Development"
+
+
+[output.html]
+additional-css = [".vitepress/theme/custom.css"]
+
+[output.pdf]
+
+[output.pdf-outline]
+like-wkhtmltopdf = true
